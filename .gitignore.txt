@@ -1,0 +1,14 @@
+# C++ build artifacts
+*.o
+*.out
+*.exe
+
+# C# / .NET build artifacts
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Data files
+*.txt
